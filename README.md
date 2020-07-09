@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/custom%20%E2%80%93%201.svg" width="854" height="200" />
-
 <p align='center'>
+<img src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/custom%20%E2%80%93%201.svg" width="854" height="200" />
+<br>
 <a href="https://www.linkedin.com/in/kristina-kuzmenko-7a80b760/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/003-linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/tina_kuzmenko/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/004-instagram.svg"></a>&nbsp;&nbsp;
 <img src="https://visitor-badge.glitch.me/badge?page_id=tinakuzmenko" alt="visitor badge"/>
