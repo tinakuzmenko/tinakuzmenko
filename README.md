@@ -1,6 +1,6 @@
 ### Hi and welcome!
 
-Hi! I am Tina Kuzmenko - frontend developer with a strong passion of UX/UI design based in Amsterdam, The Netherlands.
+I am Tina Kuzmenko - frontend developer with a strong passion of UX/UI design based in Amsterdam, The Netherlands.
 
 🌱 I’m currently learning React & TypeScript.
 
