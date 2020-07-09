@@ -1,18 +1,24 @@
-### Hi and welcome!
+<img src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/custom%20%E2%80%93%201.svg" width="854" height="200" />
 
-I am Tina Kuzmenko - frontend developer with a strong passion of UX/UI design based in Amsterdam, The Netherlands.
+<p align='center'>
+<a href="https://www.linkedin.com/in/kristina-kuzmenko-7a80b760/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/003-linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/tina_kuzmenko/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/004-instagram.svg"></a>&nbsp;&nbsp;
+<img src="https://visitor-badge.glitch.me/badge?page_id=tinakuzmenko" alt="visitor badge"/>
+</p>
 
-🌱 I’m currently learning React & TypeScript.
+## Hi and welcome! 🙋‍♀️
 
-<!--
-Here are some ideas to get you started:
+I am Tina Kuzmenko - frontend developer with a strong passion of UX/UI design. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My technologies stack:
+
+- **Responsive web-development:** HTML5, CSS/SCSS;
+- **Frontend:** JavaScript (ES5/ES6);
+- **JavaScript libraries:** React, Redux;
+- **Testing libraries:** Jest, Enzyme;
+- **Code bundlers:** Gulp, Webpack;
+- **UX/UI:** Adobe XD, Adobe Photoshop, Figma, Adobe Illustrator.
+
+### 💌 Feel free to contact me if you have an open position that matches my skills. 
+
+I am currently open for full-time job in Amsterdam, Utrecht or The Hague (The Netherlands).
