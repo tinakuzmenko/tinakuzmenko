@@ -2,11 +2,11 @@
     <img src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/custom%20%E2%80%93%201.svg" width="854" height="200" />
 </p>
 
-## Hi and welcome! 🙋‍♀️
+## **Hi and welcome! 🙋‍♀**
 
 I am Tina Kuzmenko - frontend developer with a strong passion of UX/UI design. 
 
-### 🛠 My tech stack:
+### My tech stack 🛠:
 
 - **Responsive web-development:** HTML5, CSS/SCSS;
 - **Frontend:** JavaScript (ES5/ES6);
@@ -20,7 +20,8 @@ I am Tina Kuzmenko - frontend developer with a strong passion of UX/UI design.
 I am currently open for full-time job in Amsterdam, Utrecht or The Hague (The Netherlands).
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/kristina-kuzmenko-7a80b760/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/003-linkedin.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/tina_kuzmenko/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/004-instagram.svg"></a>&nbsp;&nbsp;
+<a href="mailto:tina.kuzmenko@outlook.com"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/003-email.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kristina-kuzmenko-7a80b760/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/001-linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/tina_kuzmenko/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/002-instagram.svg"></a>&nbsp;&nbsp;
 <img src="https://visitor-badge.glitch.me/badge?page_id=tinakuzmenko" alt="visitor badge"/>
 </p>
