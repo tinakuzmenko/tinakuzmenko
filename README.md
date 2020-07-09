@@ -4,9 +4,9 @@
 
 ## **Hi and welcome! 🙋‍♀**
 
-I am Tina Kuzmenko - frontend developer with a strong passion of UX/UI design. 
+I am Tina Kuzmenko - frontend developer with a strong passion of UX/UI design. Each day I create beautiful web-products using best practices and modern technologies. 
 
-### My tech stack 🛠:
+### 🛠 My tech stack:
 
 - **Responsive web-development:** HTML5, CSS/SCSS;
 - **Frontend:** JavaScript (ES5/ES6);
@@ -19,7 +19,7 @@ I am Tina Kuzmenko - frontend developer with a strong passion of UX/UI design.
 
 I am currently open for full-time job in Amsterdam, Utrecht or The Hague (The Netherlands).
 
-<p align='center'>
+<p align="center">
 <a href="mailto:tina.kuzmenko@outlook.com"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/003-email.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kristina-kuzmenko-7a80b760/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/001-linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/tina_kuzmenko/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/002-instagram.svg"></a>&nbsp;&nbsp;
