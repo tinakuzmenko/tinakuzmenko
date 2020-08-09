@@ -23,5 +23,6 @@ I am currently open for full-time job in Amsterdam, Utrecht or The Hague (The Ne
 <a href="mailto:tina.kuzmenko@outlook.com"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/003-email.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kristina-kuzmenko-7a80b760/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/001-linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/tina_kuzmenko/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/002-instagram.svg"></a>&nbsp;&nbsp;
-<img src="https://visitor-badge.glitch.me/badge?page_id=tinakuzmenko" alt="visitor badge"/>
+
+![Tina's github stats](https://github-readme-stats.vercel.app/api?username=tinakuzmenko&show_icons=true&theme=radical)
 </p>
