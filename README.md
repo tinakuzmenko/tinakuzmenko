@@ -9,7 +9,7 @@ I am Tina Kuzmenko - frontend developer with a strong passion of UX/UI design. E
 ### 🛠 My tech stack:
 
 - **Responsive web-development:** HTML5, CSS/SCSS;
-- **Frontend:** JavaScript (ES5/ES6);
+- **Frontend:** JavaScript (ES5/ES6), TypeScript;
 - **JavaScript libraries:** React, Redux;
 - **Testing libraries:** Jest, Enzyme;
 - **Code bundlers:** Gulp, Webpack;
