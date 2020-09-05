@@ -37,5 +37,3 @@ I am currently open for full-time job in Amsterdam, Utrecht or The Hague (The Ne
 <a href="https://www.linkedin.com/in/kristina-kuzmenko-7a80b760/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/001-linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/tina_kuzmenko/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/002-instagram.svg"></a>&nbsp;&nbsp;
 </p>
-
-![Tina's github stats](https://github-readme-stats.vercel.app/api?username=tinakuzmenko&show_icons=true&theme=vue)
