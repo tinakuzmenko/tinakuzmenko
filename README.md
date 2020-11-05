@@ -1,19 +1,24 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/custom%20%E2%80%93%201.svg" width="854" height="200" />
+    <img src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/new-portfolio/amsterdam-cover.webp" width="100%" alt="Hi! I am Tina Kuzmenko. Frontend developer based in Amsterdam" />
 </p>
 
-## **Hi and welcome! 🙋‍♀**
-
-I am Tina Kuzmenko - frontend developer with a strong passion of UX/UI design. Each day I create beautiful web-products using best practices and modern technologies. 
+Welcome to my GitHub page! I am a frontend developer with a strong passion of UX/UI design.
+Each day I create beautiful web-products using best practices and modern technologies.
+Here you can find some of my open source and pet-projects. 
 
 ### 🛠 My tech stack:
 
-- **Responsive web-development:** HTML5, CSS/SCSS;
-- **Frontend:** JavaScript (ES5/ES6), TypeScript;
+- **Responsive web-development:** HTML5, CSS/SCSS/LESS;
+- **Frontend:** Vanilla JavaScript (ES6+) ❤️;
 - **JavaScript libraries:** React, Redux;
 - **Testing libraries:** Jest, Enzyme;
 - **Code bundlers:** Gulp, Webpack;
-- **UX/UI:** Adobe XD, Adobe Photoshop, Figma, Adobe Illustrator.
+- **UX/UI:** Adobe XD, Figma, Adobe Illustrator, Adobe Photoshop.
+
+### 🛠 Currently learning:
+- TypeScript;
+- Styled Components;
+- React Hooks.
 
 ### 💻 Some of my open source projects:
 
@@ -26,13 +31,9 @@ I am Tina Kuzmenko - frontend developer with a strong passion of UX/UI design. E
 | [Aviasales Test](https://github.com/tinakuzmenko/aviasales-js-test) | The project is a simple SPA, that imitates flight tickets search. My own improvements to the task are responsive design, infinite scroll & lazy loading, button "Back To Top", tickets counter, error notifications. | Vanilla JavaScript (ES6), HTML, SCSS, Webpack, Jest (WIP) |
 | [COVID-19 Chart](https://github.com/tinakuzmenko/covid-19-chart) (WIP)| COVID-19 tracker for countries all over the world. This project has status "Work in progress". But the main functionality is already available. | UX/UI design, HTML, SCSS, Vanilla JavaScript, Chart.js, Webpack |
 | [Kekstagram](https://github.com/tinakuzmenko/htmlacademy-kekstagram) | Simple "instagram"-like app, where you can view photos, upload your own photos and use CSS-filters on them. | Vanilla JavaScript (ES5) |
-| [JS Messenger](https://github.com/tinakuzmenko/js-messenger) | Simple messenger prototype with ability to send and delete messages. | UX/UI design, HTML, SCSS, Vanilla JavaScript (ES5), Gulp |
 | [Pognali](https://github.com/tinakuzmenko/htmlacademy-pognali) | Travellers responsive app prototype that helps you to find new travel-mates. | HTML, SCSS, Vanilla JavaScript (ES5), Gulp |
-| [Device](https://github.com/tinakuzmenko/htmlacademy-device) | E-commerce website which sells different gadgets. | HTML, CSS, Vanilla JavaScript (ES5) |
 
-### 💌 Feel free to contact me if you have an open position that matches my skills. 
-
-I am currently open for full-time job in Amsterdam, Utrecht or The Hague (The Netherlands).
+### 💌 Feel free to contact me if you have interesting ideas or looking for a new team member. 
 
 <p align="center">
 <a href="mailto:tina.kuzmenko@outlook.com"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/003-email.svg"></a>&nbsp;&nbsp;
