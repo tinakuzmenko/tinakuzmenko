@@ -15,7 +15,7 @@ Here you can find some of my open source and pet-projects.
 - **Code bundlers:** Gulp, Webpack;
 - **UX/UI:** Adobe XD, Figma, Adobe Illustrator, Adobe Photoshop.
 
-### 🛠 Currently learning:
+### 👩🏻‍🎓 Currently learning:
 - TypeScript;
 - Styled Components;
 - React Hooks.
