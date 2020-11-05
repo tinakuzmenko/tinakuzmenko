@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/custom%20%E2%80%93%201.svg" width="854" height="200" />
+    <img src="" width="100%" height="100%" />
 </p>
 
 ## **Hi and welcome! 🙋‍♀**
