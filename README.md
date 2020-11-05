@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="" width="100%" height="100%" />
+    <img src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/new-portfolio/amsterdam-cover.webp" width="100%" alt="Hi! I am Tina Kuzmenko. Frontend developer based in Amsterdam" />
 </p>
 
 ## **Hi and welcome! 🙋‍♀**
