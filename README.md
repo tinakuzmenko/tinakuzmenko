@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/new-portfolio/amsterdam-cover.png" width="100%" alt="Hi! I am Tina Kuzmenko. Frontend developer based in Amsterdam" />
+      <img src="https://github.com/tinakuzmenko/tinakuzmenko/blob/master/amsterdam-cover.png" width="100%" alt="Hi! I am Tina Kuzmenko. Frontend developer based in Amsterdam" />
 </p>
 
 Welcome to my GitHub page! I am a frontend developer with a strong passion of UX/UI design.
