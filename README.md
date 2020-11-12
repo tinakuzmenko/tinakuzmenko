@@ -39,4 +39,5 @@ Here you can find some of my open source and pet-projects.
 <a href="mailto:tina.kuzmenko@outlook.com"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/003-email.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kristina-kuzmenko-7a80b760/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/001-linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/tina_kuzmenko/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/002-instagram.svg"></a>&nbsp;&nbsp;
+<a href="https://www.codewars.com/users/tinakuzmenko/"><img height="30" src="https://www.codewars.com/users/tinakuzmenko/badges/micro"></a>
 </p>
