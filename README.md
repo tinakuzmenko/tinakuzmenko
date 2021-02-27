@@ -16,9 +16,10 @@ Here you can find some of my open source and pet-projects.
 - **UX/UI:** Adobe XD, Figma, Adobe Illustrator, Adobe Photoshop.
 
 ### 👩🏻‍🎓 Currently learning:
+- PHP;
 - TypeScript;
-- Styled Components;
 - React Hooks.
+- Styled Components.
 
 ### 💻 Some of my open source projects:
 
