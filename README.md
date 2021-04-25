@@ -11,12 +11,13 @@ Here you can find some of my open source and pet-projects.
 - **Responsive web-development:** HTML5, CSS/SCSS/LESS;
 - **Frontend:** Vanilla JavaScript (ES6+) ❤️;
 - **JavaScript libraries:** React, Redux;
+- **Backend:** PHP, MySQL;
 - **Testing libraries:** Jest, Enzyme;
 - **Code bundlers:** Gulp, Webpack;
 - **UX/UI:** Adobe XD, Figma, Adobe Illustrator, Adobe Photoshop.
 
 ### 👩🏻‍🎓 Currently learning:
-- PHP;
+- PHP & MySQL;
 - TypeScript;
 - React Hooks.
 - Styled Components.
@@ -30,7 +31,6 @@ Here you can find some of my open source and pet-projects.
 | [Big Trip](https://github.com/tinakuzmenko/htmlacademy-big-trip) | Travellers app that helps to plan your next trip. Choose dates, cities and activities, view statistics and more. | Vanilla JavaScript (ES6), Chart.js, Moment.js, Flatpickr.js, Webpack |
 | [JavaScript Calculator](https://github.com/tinakuzmenko/js-calculator) | JavaScript calculator, that allows basic arithmetic operations, compute trigonometric functions and memory operations (save to memory, add to memory, display memory and clear memory). | Vanilla JavaScript (ES6), HTML, LESS, Jest, Webpack |
 | [Aviasales Test](https://github.com/tinakuzmenko/aviasales-js-test) | The project is a simple SPA, that imitates flight tickets search. My own improvements to the task are responsive design, infinite scroll & lazy loading, button "Back To Top", tickets counter, error notifications. | Vanilla JavaScript (ES6), HTML, SCSS, Webpack, Jest (WIP) |
-| [COVID-19 Chart](https://github.com/tinakuzmenko/covid-19-chart) (WIP)| COVID-19 tracker for countries all over the world. This project has status "Work in progress". But the main functionality is already available. | UX/UI design, HTML, SCSS, Vanilla JavaScript, Chart.js, Webpack |
 | [Kekstagram](https://github.com/tinakuzmenko/htmlacademy-kekstagram) | Simple "instagram"-like app, where you can view photos, upload your own photos and use CSS-filters on them. | Vanilla JavaScript (ES5) |
 | [Pognali](https://github.com/tinakuzmenko/htmlacademy-pognali) | Travellers responsive app prototype that helps you to find new travel-mates. | HTML, SCSS, Vanilla JavaScript (ES5), Gulp |
 
