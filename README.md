@@ -27,6 +27,7 @@ Here you can find some of my open source and pet-projects.
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
 | [Create HTML Boilerplate](https://github.com/webtime-studio/create-html-boilerplate) | A set of base files for creating a front-end project (HTML/SCSS + JavaScript). Uses Webpack as a bundler. | HTML, SCSS, JavaScript, Webpack |
+| [F1 Seasons App](https://github.com/tinakuzmenko/f1-seasons) | App to see the results about F1 seasons and rounds with possibility to add drivers in favorites list. | JavaScript, React, React hooks, styled-components |
 | [What To Watch](https://github.com/tinakuzmenko/608749-what-to-watch-4) | Online cinema app with ability to log in, rate, comment and watch movies. | TypeScript, React, Redux, Jest, Enzyme, Webpack |
 | [Big Trip](https://github.com/tinakuzmenko/htmlacademy-big-trip) | Travellers app that helps to plan your next trip. Choose dates, cities and activities, view statistics and more. | Vanilla JavaScript (ES6), Chart.js, Moment.js, Flatpickr.js, Webpack |
 | [JavaScript Calculator](https://github.com/tinakuzmenko/js-calculator) | JavaScript calculator, that allows basic arithmetic operations, compute trigonometric functions and memory operations (save to memory, add to memory, display memory and clear memory). | Vanilla JavaScript (ES6), HTML, LESS, Jest, Webpack |
