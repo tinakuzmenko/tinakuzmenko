@@ -8,8 +8,8 @@ Here you can find some of my open source and pet-projects.
 
 ### 🛠 My tech stack:
 
-- **Responsive web-development:** HTML5, CSS/SCSS/LESS, Styled Components;
-- **Frontend:** React (with React hooks), Vanilla JavaScript (ES6+) ❤️;
+- **Frontend:** React (with React hooks) ❤️, Vanilla JavaScript (ES6+), HTML5, CSS;
+- **Styling:** SCSS/LESS, Styled Components, CSS modules;
 - **State management:** Redux;
 - **Backend:** PHP, MySQL;
 - **Testing libraries:** Jest, Enzyme;
