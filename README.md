@@ -9,27 +9,27 @@ Here you can find some of my open source and pet-projects.
 ### 🛠 My tech stack:
 
 - **Frontend:** React (with React hooks) ❤️, Vanilla JavaScript (ES6+), HTML5, CSS;
-- **Styling:** SCSS/LESS, Styled Components, CSS modules;
-- **State management:** Redux;
+- **Styling:** Styled Components, Emotion, SCSS/LESS, CSS modules;
+- **State management:** Redux / Redux Toolkit;
 - **Backend:** PHP, MySQL;
-- **Testing libraries:** Jest, Enzyme;
+- **Testing libraries:** Jest, React Testing Library;
 - **Code bundlers:** Gulp, Webpack;
 - **UX/UI:** Figma, Adobe XD, Sketch.
 
 ### 👩🏻‍🎓 Currently learning:
-- NextJS;
-- TypeScript.
+- TypeScript;
+- Cypress.
 
 ### 💻 Some of my open source projects:
 
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
 | [F1 Seasons App](https://github.com/tinakuzmenko/f1-seasons) | App to see the results about F1 seasons and rounds with possibility to add drivers in favorites list. | JavaScript, React, React hooks, styled-components |
+| [Create HTML Boilerplate](https://github.com/webtime-studio/create-html-boilerplate) | A set of base files for creating a front-end project (HTML/SCSS + JavaScript). Uses Webpack as a bundler. | HTML, SCSS, JavaScript, Webpack |
 | [What To Watch](https://github.com/tinakuzmenko/608749-what-to-watch-4) | Online cinema app with ability to log in, rate, comment and watch movies. | TypeScript, React, Redux, Jest, Enzyme, Webpack |
 | [Big Trip](https://github.com/tinakuzmenko/htmlacademy-big-trip) | Travellers app that helps to plan your next trip. Choose dates, cities and activities, view statistics and more. | Vanilla JavaScript (ES6), Chart.js, Moment.js, Flatpickr.js, Webpack |
 | [Aviasales Test](https://github.com/tinakuzmenko/aviasales-js-test) | The project is a simple SPA, that imitates flight tickets search. My own improvements to the task are responsive design, infinite scroll & lazy loading, button "Back To Top", tickets counter, error notifications. | Vanilla JavaScript (ES6), HTML, SCSS, Webpack, Jest (WIP) |
 | [Kekstagram](https://github.com/tinakuzmenko/htmlacademy-kekstagram) | Simple "instagram"-like app, where you can view photos, upload your own photos and use CSS-filters on them. | Vanilla JavaScript (ES5) |
-| [Create HTML Boilerplate](https://github.com/webtime-studio/create-html-boilerplate) | A set of base files for creating a front-end project (HTML/SCSS + JavaScript). Uses Webpack as a bundler. | HTML, SCSS, JavaScript, Webpack |
 
 <p align="center">
 <a href="mailto:tina.kuzmenko@outlook.com"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/003-email.svg"></a>&nbsp;&nbsp;
