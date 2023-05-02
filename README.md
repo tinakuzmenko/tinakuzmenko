@@ -8,16 +8,15 @@ Here you can find some of my open source and pet-projects.
 
 ### 🛠 My tech stack:
 
-- **Frontend:** React (with React hooks) ❤️, Vanilla JavaScript (ES6+), HTML5, CSS;
+- **Frontend:** React (with React hooks) ❤️, TypeScript, JavaScript, HTML5, CSS;
 - **Styling:** Styled Components, Emotion, SCSS/LESS, CSS modules;
 - **State management:** Redux / Redux Toolkit;
-- **Backend:** PHP, MySQL;
-- **Testing libraries:** Jest, React Testing Library;
-- **Code bundlers:** Gulp, Webpack;
-- **UX/UI:** Figma, Adobe XD, Sketch.
+- **Testing:** Jest, React Testing Library;
+- **UX/UI:** Storybook, Figma, Adobe XD, Sketch.
 
 ### 👩🏻‍🎓 Currently learning:
-- TypeScript;
+- Node.js;
+- SQL, MongoDB;
 - Cypress.
 
 ### 💻 Some of my open source projects:
